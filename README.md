@@ -1,14 +1,14 @@
-# Themelight Star System
+# 主角星系
 ![banner](icon.png)
 
-## An example Mindustry mod with a JSON planet (and a star!).
+## 一个例子 Mindustry mod 带有JSON星球（还有一个星星！）。
 
-\+ Well documented for newbie modders.
+\+ 新手Modders有据可查。
 
-\+ Contains (almost) every single field you can declare in your own planet or star.
+\+ 包含（几乎）您可以在自己的星球或星星中声明的每个字段。
 
-\+ Supports newer planet features recently added to the modding API.
+\+ 支持新的星球功能最近添加到改装API中。
 
-\- Not meant to be played.
+\- 并不是要玩。
 
-### Authored by [Slotterleet](https://github.com/Slotterleet/)
+### 由 [Slotterleet](https://github.com/Slotterleet/)
