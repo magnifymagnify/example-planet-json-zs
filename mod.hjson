@@ -1,12 +1,12 @@
 name: ep-json
-displayName: JSON Example Solar System!
-author: Slotterleet
-subtitle: Themelight included
+displayName: JSON示例太阳系！
+author: magnifymagnify
+subtitle: 包括主题
 description: 
 '''
-This planet has (almost) every single field you can declare in JSON planets. Press the "Repo" button below to see the source code.
+这个星球（几乎）您可以在JSON行星中声明的每个字段。按下下面的“回购”按钮以查看源代码。
 
-This is NOT meant to be played.
+这并不是要播放的。
 '''
 repo: Slotterleet/example-planet-json
 minGameVersion: 146
